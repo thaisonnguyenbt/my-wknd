@@ -8,7 +8,7 @@
         cq:template="/conf/mywknd/settings/wcm/templates/app-template"
         jcr:primaryType="cq:PageContent"
         jcr:title="Root Page My.WKND App"
-        sling:resourceType="mywknd/components/app"
+        sling:resourceType="mywknd/components/structure/app"
         cq:redirectTarget="/content/mywknd/en/home">
         <root
             jcr:primaryType="nt:unstructured"

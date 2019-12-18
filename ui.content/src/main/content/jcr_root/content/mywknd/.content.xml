@@ -6,7 +6,7 @@
         jcr:primaryType="cq:PageContent"
         cq:conf="/conf/mywknd"
         jcr:title="My.WKND"
-        sling:resourceType="mywknd/components/app"
+        sling:resourceType="mywknd/components/structure/app"
         cq:redirectTarget="/content/mywknd/en">
     </jcr:content>
     <en/>

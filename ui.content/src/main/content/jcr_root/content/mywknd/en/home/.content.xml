@@ -7,7 +7,7 @@
         cq:template="/conf/mywknd/settings/wcm/templates/page-template"
         jcr:primaryType="cq:PageContent"
         jcr:title="Home Page My.WKND"
-        sling:resourceType="mywknd/components/page">
+        sling:resourceType="mywknd/components/structure/app">
         <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/foundation/components/responsivegrid">
