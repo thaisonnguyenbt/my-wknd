@@ -1,0 +1,4 @@
+*/target/*
+angular-app/dist/*
+angular-app/node_modules/*
+angular-app/node/node_modules/*
